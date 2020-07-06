@@ -13,4 +13,4 @@ Plans for PyData Activities
 #### Regional PyData Events in Spring 2021
 
 * Potential for hosting workshops in Limerick, Cork and Galway
-* The workshops will take on Saturday Morning between 10am anf 4pm approx
+* The workshops will take on Saturday Morning between 10 am and 4pm approx.
